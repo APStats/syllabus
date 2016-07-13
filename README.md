@@ -37,9 +37,14 @@ The purpose of the AP course in statistics is to introduce students to the major
 This course is equivalent to a rigorous, non-calculus based, college introductory statistics course. Students will learn standard distribution-based inference procedures, including 
 [Overview from College Board](http://media.collegeboard.com/digitalServices/pdf/ap/ap-course-overviews/ap-statistics-course-overview.pdf)
 
-## Homework and other Assignments ##
+## Learning ##
 
-* All assignments will be posted on Canvas and listed on the due date for consistency throughout the year. ALL ASSIGNMENTS ARE DUE AT THE START OF CLASS ON THE DUE DATE, UNLESS OTHERWISE NOTED.
+"Learning is creation, not consumption. Knowledge is not something a learner absorbs, but something a learner creates. Learning happens when a learner integrates new knowledge and skill into his or her existing structure of self. Learning is literally a matter of creating new meanings, new neural networks, and new patterns of electro/chemical interactions within one's total brain/body system."
+[~ The Center for Accelerated Learning](http://www.alcenter.com/what_is.php)
+
+## Homework and other assignments ##
+
+* Homework and other assignments are regular opportunities for you to create learning. All assignments will be posted on Canvas and listed on the due date for consistency throughout the year. ALL ASSIGNMENTS ARE DUE AT THE START OF CLASS ON THE DUE DATE, UNLESS OTHERWISE NOTED.
   * Textbook homework assignments may be done as traditional math homework on notebook paper or in a spiral notebook (student's choice for how to organize). 
   * Canvas assignments that are to be handed in electronically on Canvas will have the submit button available. When appropriate, students will usually be given options such as editing a text box, attaching a document, providing link to GoogleDoc, or attaching an audio or video file. 
   * Programming assignments that are submitted on GitHub will use the following workflow:
