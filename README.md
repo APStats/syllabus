@@ -21,9 +21,12 @@ The purpose of the AP course in statistics is to introduce students to the major
 
 ## Prerequisites and Necessary Skills ##
 
-* Completed or enrolled in Pre-Calculus.
+* Completed or enrolled in Pre-Calculus. This helps insure students have the mathematical maturity necessary for success in this course.
 * Working knowledge of algebra sufficient to use it as a tool when solving problems.
-* Working knowledge of geometry sufficient for finding areas of basic shapes.
+* Working knowledge of geometry sufficient for finding areas of basic geometric shapes.
+* Reading comprehension skills sufficient to read and understand problems from a wide variety of disciplines. Statistics is used to make sense of data in almost all fields.
+* Ability and willingness to communicate technical information in writing and thus help educate others. Statistics is a consEven budding statisticians must be able to communicate what assumpitions they have made, what analyses they have done, and what it all means to their clients. 
+
 
 ## Tools for Calculating and Computing ##
 
@@ -45,7 +48,7 @@ This course is equivalent to a rigorous, non-calculus based, college introductor
 ## Homework and other assignments ##
 
 * Homework and other assignments are regular opportunities for you to create learning. All assignments will be posted on Canvas and listed on the due date for consistency throughout the year. ALL ASSIGNMENTS ARE DUE AT THE START OF CLASS ON THE DUE DATE, UNLESS OTHERWISE NOTED.
-  * Textbook homework assignments may be done as traditional math homework on notebook paper or in a spiral notebook (student's choice for how to organize). 
+   * Textbook homework assignments may be done as traditional math homework on notebook paper or in a spiral notebook (student's choice for how to organize). 
   * Canvas assignments that are to be handed in electronically on Canvas will have the submit button available. When appropriate, students will usually be given options such as editing a text box, attaching a document, providing link to GoogleDoc, or attaching an audio or video file. 
   * Programming assignments that are submitted on GitHub will use the following workflow:
     * Fork the repository for the exercise/project (found under github.com/APStats).
@@ -168,10 +171,25 @@ This class assumes you are confident with this material, but in case you need a 
 * Homework – 15%
 * Journal – 15%
 
-## Statements on Academic Integrity ##
+## Exam ##
+* 
+* AP: Students are required to take the AP exam in May in order to earn AP credit for this course. Failure to take the AP exam will result in the FINAL grade for the course being reduced by one letter grade (minimum of 10 points).
+* 
+* Teacher-made final
+* * A practice AP exam will be given in April and will count for at least 70% of the teacher-made final exam grade.
+*  
+* Exam Exemption: Students are eligible in this course for exam exemptions per the WSFCS Exam Exemption policy. The exemption is for the teacher-made exam given at the end of this course.
+
+
+## Academic Integrity ##
 * 
 * WARNING: Cheating on exams can be STATISTICALLY UNCOVERED. DON’T TRY IT! Don’t throw your future away.
 * 
+## Attendance ##
+* 
+* Students are expected to attend all of their CC classes each day. When a student has to be absent, they should bring a parent note or an official note if applicable (doctor, dentist, court) for that absence within 2 days of their return to CC. Students who do not submit an acceptable note within 2 days will have their absence coded as UNEXCUSED. A student with more than 3 UNEXCUSED absences in a SEMESTER has violated the CC attendance policy and may receive an “FF” for semester average in each course where they violated the policy.
+* 
+
 ### Instructor
 
-* 
+* Kay Endriss, MS, NBCT
