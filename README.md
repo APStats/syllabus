@@ -21,8 +21,8 @@ The purpose of the AP course in statistics is to introduce students to the major
 
 ## Prerequisites and Necessary Skills ##
 
-* Completed or enrolled in Pre-Calculus. This helps insure students have the mathematical maturity necessary for success in this course.
-* Working knowledge of algebra sufficient to use it as a tool when solving problems.
+* Completed or enrolled in Precalculus. This helps insure students have the mathematical maturity necessary for success in this course.
+* Working knowledge of algebra (reunion of broken parts) sufficient to use it as a tool when solving problems.
 * Working knowledge of geometry sufficient for finding areas of basic geometric shapes.
 * Reading comprehension skills sufficient to read and understand problems from a wide variety of disciplines. Statistics is used to make sense of data in almost all fields.
 * Ability and willingness to communicate technical information in writing and thus help educate others. Statistics is a consEven budding statisticians must be able to communicate what assumpitions they have made, what analyses they have done, and what it all means to their clients. 
