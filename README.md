@@ -22,17 +22,16 @@ The purpose of the AP course in statistics is to introduce students to the major
 ## Prerequisites and Necessary Skills ##
 
 * Completed or enrolled in Precalculus. This helps insure students have the mathematical maturity necessary for success in this course.
-* Working knowledge of algebra (reunion of broken parts) sufficient to use it as a tool when solving problems.
-* Working knowledge of geometry sufficient for finding areas of basic geometric shapes.
+* Working knowledge of algebra (means "reunion of broken parts") sufficient to use it as a tool when solving problems.
+* Working knowledge of geometry sufficient for finding areas of basic geometric shapes. Area is equated with probability for continuous distributions.
 * Reading comprehension skills sufficient to read and understand problems from a wide variety of disciplines. Statistics is used to make sense of data in almost all fields.
-* Ability and willingness to communicate technical information in writing and thus help educate others. Statistics is a consEven budding statisticians must be able to communicate what assumpitions they have made, what analyses they have done, and what it all means to their clients. 
+* Ability and willingness to communicate technical information in writing to help educate others. Even budding statisticians must be able to communicate what assumpitions they have made, what analyses they have done, and what it all means to their clients. 
 
 
 ## Tools for Calculating and Computing ##
 
 * Students will need access to a [graphing calculator](https://github.com/APStats/syllabus/calculator) during the course and for the advanced placement exam. 
-* Career Center enjoys a sitewide JMP license, which students may use to complete assignments and projects.  
-* Instructor is introducing GitHub with students this year
+* Career Center enjoys a sitewide license for JMP [customer stories](https://www.jmp.com/en_us/customer-stories.html), which students may use to complete assignments and projects.  
 
 
 ## Course Overview ##
